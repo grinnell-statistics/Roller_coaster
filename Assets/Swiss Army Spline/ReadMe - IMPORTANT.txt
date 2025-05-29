@@ -1,0 +1,2 @@
+If you are using HDRP or URP you need to run Unity's Material conversion from the Menu: Edit -> Rendering -> Materials -> Convert All Built-in Materials to HDRP/URP
+In older versions of Unity this can be found in: Window -> Rendering -> Render Pipeline Converter
